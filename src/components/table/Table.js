@@ -20,13 +20,13 @@ const List = () => {
     },
     {
       id: 2235235,
-      product: "Playstation 5",
+      product: " ",
       
-      customer: "Michael Doe",
-      date: "1 March",
+      customer: "",
+      date: "",
       amount: "",
-      method: "Online Payment",
-      status: "Pending",
+      method: " ",
+      status: "",
     },
     {
       id: 2342353,
